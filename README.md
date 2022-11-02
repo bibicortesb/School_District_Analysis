@@ -15,22 +15,6 @@ PyCity Schools are seeking have prepared and analysed a source of data. They exp
 Through this project I assisted Maria to prepare a source of data for analysis, reporting, and presentation to provide insights about performance trends and patterns in the school districts. The analysis will focus on student funding and students' standardized test scores. The main purpose is to aggregate data and show trends in school performance.
 
 
-
-## Election-Audit Results:
-
-The school shows that
-
-* H 
-* h
-  * h.
-  
-
-
-### Tabulated Results
-)
-
-
-
 ## Resources
 
 - Data Source: new_full_student_data.csv
